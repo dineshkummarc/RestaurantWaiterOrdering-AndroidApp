@@ -1,0 +1,33 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_color_500"
+    android:padding="5dp">
+
+    <GridView
+        android:id="@+id/grd1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:horizontalSpacing="5dp"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="5dp"></GridView>
+    <!--   android:stretchMode="10dp"-->
+
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="37dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginRight="42dp"
+        android:src="@drawable/action"
+        android:layout_alignBottom="@+id/grd1"
+        android:layout_alignRight="@+id/grd1"
+        android:layout_alignEnd="@+id/grd1" />
+
+
+</RelativeLayout>

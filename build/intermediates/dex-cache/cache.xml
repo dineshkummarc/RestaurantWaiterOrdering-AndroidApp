@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-6e0848f96016fea4c03c7a39056abd21a1b889f8.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-3750d58031e6ba938aa12399af39e995e08c52b6.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-9951a59a3b25a84ca2e3b93574d5c55f6e9b2916.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-810214d353841fa97734cc9c7dd1667c34c96981.jar" />
+    </item>
+    <item
+        jar="/home/reeva/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-cbbabcc02672de6d80c98eaf5b52770a1a306724.jar" />
+    </item>
+    <item
+        jar="/home/reeva/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/okio-1.4.0-82d44c1f8a691a22d1c3c13f22c314819870395c.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-7d6e8cc78749b111f4e96ad1308e1bcd9dc9a823.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-4d7f54c011f59bc28824d71979cec21a63f3a3b2.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0db114dc90b3e192ba48d22421a9c47cfc01f00">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-914b4b39da08b72667807d33fbb438aa7c2c8ed8.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-09bdb3ec16da1610c627261a2da28a0bca778179.jar" />
+    </item>
+    <item
+        jar="/home/reeva/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/gson-2.3.1-122dbd789670348439a52224c9ed9351657e5587.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/libs/httpmime-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="326bf4147f100e8a4fdd7f1867a87e969fb10812">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/httpmime-4.0.1-557a78e7d8174ced5c4e1f550fd3ec4a0e30776c.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-636fc9c17b8dd36b755d974b533e8d11d7ba9791.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e58f2fb4991259b0d4e78c3b3dd686ec58736a29">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-b18c4569886b47c38a3901f2039c3e0be9cf0c6b.jar" />
+    </item>
+    <item
+        jar="/home/reeva/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/library-2.4.0-906bf6d066531026e7bd74a5d081c42426fc6624.jar" />
+    </item>
+    <item
+        jar="/home/reeva/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2ec3c334c57dd22a5de322426682ce86eea01843.jar" />
+    </item>
+    <item
+        jar="/home/reeva/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-d3ca081e3f6cac9505ff3d8a5efc0253be460654.jar" />
+    </item>
+    <item
+        jar="/home/reeva/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-823e7f80bb1642387c3f8f78896876d412e75ae0.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/classes-40c589e7488807d187487a58b8165242a2a65d90.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Restaurant App /REstaurant/app/libs/httpcore-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="/home/reeva/Restaurant App /REstaurant/app/build/intermediates/pre-dexed/debug/httpcore-4.0.1-ab4f7cdc61d2f240e725f5ba3f9b709b052c5f93.jar" />
+    </item>
+
+</items>
